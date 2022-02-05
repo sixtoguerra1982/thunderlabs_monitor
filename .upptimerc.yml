@@ -5,8 +5,10 @@ repo: thunderlabs_monitor # The name of this repository
 sites:
   - name: Intranet_Boliche
     url: http://intranet.boliche.cl/
+    icon: http://intranet.boliche.cl/favicon.ico
   - name: Odin
     url: https://odinback.thunderlabs.cl/
+    icon: https://odinback.thunderlabs.cl/favicon.ico
     
 assignees:
   - sixtoguerra1982
