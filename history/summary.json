@@ -6,9 +6,9 @@
     "slug": "intranet-boliche",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "99.41%",
     "time": 388,
     "timeDay": 351,
@@ -16,7 +16,6 @@
     "timeMonth": 362,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2022-06-13": 13,
       "2022-06-01": 548,
       "2022-02-12": 536
     }
