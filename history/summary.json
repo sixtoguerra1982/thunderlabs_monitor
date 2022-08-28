@@ -29,7 +29,7 @@
     "url": "https://odinback.thunderlabs.cl/",
     "icon": "https://odinback.thunderlabs.cl/favicon.ico",
     "slug": "odin",
-    "status": "up",
+    "status": "down",
     "uptime": "96.83%",
     "uptimeDay": "98.43%",
     "uptimeWeek": "89.62%",
@@ -41,6 +41,7 @@
     "timeMonth": 1255,
     "timeYear": 586,
     "dailyMinutesDown": {
+      "2022-08-28": 0,
       "2022-08-27": 23,
       "2022-08-22": 217,
       "2022-08-21": 807,
