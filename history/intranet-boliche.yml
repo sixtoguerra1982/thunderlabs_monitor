@@ -1,7 +1,7 @@
 url: http://intranet.boliche.cl/
-status: up
-code: 200
-responseTime: 257
-lastUpdated: 2023-06-07T18:35:48.353Z
+status: down
+code: 502
+responseTime: 93
+lastUpdated: 2023-06-07T19:19:56.330Z
 startTime: Sat Feb 05 2022 17:02:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
