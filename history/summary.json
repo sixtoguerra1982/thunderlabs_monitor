@@ -6,17 +6,16 @@
     "slug": "intranet-boliche",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 445,
-    "timeDay": 5647,
-    "timeWeek": 2163,
+    "timeDay": 5654,
+    "timeWeek": 2166,
     "timeMonth": 876,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2023-09-17": 6,
       "2023-05-25": 40
     }
   },
@@ -26,18 +25,19 @@
     "icon": "https://odinback.thunderlabs.cl/favicon.ico",
     "slug": "odin",
     "status": "down",
-    "uptime": "78.42%",
+    "uptime": "78.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "68.17%",
-    "time": 543,
+    "time": 544,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 307,
+    "timeYear": 308,
     "dailyMinutesDown": {
-      "2023-09-17": 225,
+      "2023-09-18": 57,
+      "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
@@ -153,8 +153,7 @@
       "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
-      "2022-09-19": 1440,
-      "2022-09-18": 1440
+      "2022-09-19": 1440
     }
   }
 ]
