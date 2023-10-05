@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 446,
-    "timeDay": 533,
-    "timeWeek": 409,
-    "timeMonth": 915,
-    "timeYear": 458,
+    "time": 447,
+    "timeDay": 383,
+    "timeWeek": 401,
+    "timeMonth": 911,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2023-05-25": 40
     }
@@ -25,18 +25,19 @@
     "icon": "https://odinback.thunderlabs.cl/favicon.ico",
     "slug": "odin",
     "status": "down",
-    "uptime": "76.23%",
+    "uptime": "76.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "68.17%",
-    "time": 496,
+    "time": 497,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2023-10-04": 58,
+      "2023-10-05": 58,
+      "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -152,8 +153,7 @@
       "2022-10-15": 1440,
       "2022-10-14": 589,
       "2022-10-07": 1016,
-      "2022-10-06": 1440,
-      "2022-10-05": 1440
+      "2022-10-06": 1440
     }
   }
 ]
