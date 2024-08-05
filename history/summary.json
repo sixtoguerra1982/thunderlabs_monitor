@@ -4,7 +4,7 @@
     "url": "http://intranet.boliche.cl/",
     "icon": "http://intranet.boliche.cl/favicon.ico",
     "slug": "intranet-boliche",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 526,
     "timeYear": 489,
     "dailyMinutesDown": {
+      "2024-08-05": 0,
       "2024-01-20": 64,
       "2024-01-19": 91
     }
@@ -26,7 +27,7 @@
     "icon": "https://odinback.thunderlabs.cl/favicon.ico",
     "slug": "odin",
     "status": "down",
-    "uptime": "50.64%",
+    "uptime": "50.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-05": 69,
+      "2024-08-05": 1242,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
