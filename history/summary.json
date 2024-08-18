@@ -4,7 +4,7 @@
     "url": "http://intranet.boliche.cl/",
     "icon": "http://intranet.boliche.cl/favicon.ico",
     "slug": "intranet-boliche",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 503,
     "timeYear": 493,
     "dailyMinutesDown": {
+      "2024-08-18": 0,
       "2024-01-20": 64,
       "2024-01-19": 91
     }
@@ -37,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-18": 72,
+      "2024-08-18": 282,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
