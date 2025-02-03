@@ -4,19 +4,19 @@
     "url": "http://intranet.boliche.cl/",
     "icon": "http://intranet.boliche.cl/favicon.ico",
     "slug": "intranet-boliche",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 367,
-    "timeWeek": 461,
-    "timeMonth": 437,
-    "timeYear": 502,
+    "time": 513,
+    "timeDay": 8771,
+    "timeWeek": 2550,
+    "timeMonth": 960,
+    "timeYear": 545,
     "dailyMinutesDown": {
-      "2025-02-03": 0
+      "2025-02-03": 9
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-03": 811,
+      "2025-02-03": 819,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
