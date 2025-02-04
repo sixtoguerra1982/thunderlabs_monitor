@@ -6,18 +6,16 @@
     "slug": "intranet-boliche",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 513,
-    "timeDay": 5972,
-    "timeWeek": 2309,
-    "timeMonth": 942,
-    "timeYear": 545,
-    "dailyMinutesDown": {
-      "2025-02-03": 5
-    }
+    "timeDay": 6012,
+    "timeWeek": 2308,
+    "timeMonth": 945,
+    "timeYear": 544,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Odin",
@@ -25,7 +23,7 @@
     "icon": "https://odinback.thunderlabs.cl/favicon.ico",
     "slug": "odin",
     "status": "down",
-    "uptime": "42.19%",
+    "uptime": "42.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -36,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-03": 830,
+      "2025-02-04": 75,
+      "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
@@ -399,8 +398,7 @@
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
-      "2024-02-06": 1440,
-      "2024-02-05": 1440
+      "2024-02-06": 1440
     }
   }
 ]
