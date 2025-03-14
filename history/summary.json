@@ -4,7 +4,7 @@
     "url": "http://intranet.boliche.cl/",
     "icon": "http://intranet.boliche.cl/favicon.ico",
     "slug": "intranet-boliche",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 431,
     "timeMonth": 1377,
     "timeYear": 623,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-14": 0
+    }
   },
   {
     "name": "Odin",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 79,
+      "2025-03-14": 219,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
