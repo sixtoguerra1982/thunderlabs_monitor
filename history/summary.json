@@ -5,20 +5,21 @@
     "icon": "http://intranet.boliche.cl/favicon.ico",
     "slug": "intranet-boliche",
     "status": "down",
-    "uptime": "96.29%",
+    "uptime": "96.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.24%",
-    "time": 2762,
-    "timeDay": 19640,
-    "timeWeek": 11189,
-    "timeMonth": 16430,
-    "timeYear": 3522,
+    "uptimeYear": "82.97%",
+    "time": 2800,
+    "timeDay": 19341,
+    "timeWeek": 13943,
+    "timeMonth": 16422,
+    "timeYear": 3573,
     "dailyMinutesDown": {
       "2026-01-28": 58,
       "2026-03-22": 35,
-      "2026-09-14": 216,
+      "2026-09-15": 217,
+      "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
@@ -88,7 +89,7 @@
     "icon": "https://odinback.thunderlabs.cl/favicon.ico",
     "slug": "odin",
     "status": "down",
-    "uptime": "27.45%",
+    "uptime": "27.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -99,7 +100,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-14": 216,
+      "2026-09-15": 217,
+      "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
@@ -462,8 +464,7 @@
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
-      "2025-09-16": 1440,
-      "2025-09-15": 1440
+      "2025-09-16": 1440
     }
   }
 ]
